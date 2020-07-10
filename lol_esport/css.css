@@ -1,0 +1,127 @@
+p{
+	color:yellow;
+	
+	
+	text-align: center 
+	
+}
+h1{
+	color:yellow;
+}
+h2{
+	color:rgb(196, 180, 120);
+	text-align: center 
+	
+}
+h4{
+	color:yellow
+}
+h3{
+	color:rgb(196, 180, 120);
+}
+
+a {
+  color:inherit
+}
+
+a:visited {
+  color:inherit
+}
+
+body{
+	background-image:url(background2.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+.titre{
+	text-align: center;
+}
+.carte{
+	padding: 20px;
+	height: 700px;
+}
+
+.gif_geo{
+	height: 25px;	
+}
+.gif_new{
+	height: 70px;
+}
+.gif_calendar{
+	height: 80px;
+}
+.caps{
+	height: 200px;
+}
+.patch{
+	position:absolute;
+	top: -5px;
+	left: 400px;
+	font-size:200%;
+	color: #5500f3;
+}
+.lfl{
+	position:absolute;
+	top: -5px;
+	left: 830px;
+	font-size:200%;
+	color: #5500f3;
+}
+.TFT{
+	
+	position:absolute;
+	top: -5px;
+	left: 1200px;
+	font-size:200%;
+	color: #5500f3;
+
+}
+.bandeau{
+	position: absolute;
+	padding: -21px; 
+	width: 1731px;
+	height: 85px;
+}
+.logo{
+	height:85px; 
+	padding:0px; 
+	margin:0px; 
+}
+.capture{
+	padding: -21px; 
+	height: 700px;
+}
+.LOR{
+	position:absolute;
+	top: -5px;
+	left: 1500px;
+	font-size:200%;
+	color: #5500f3;
+
+}
+.fin{
+	height: 110px;
+	width: 1900px;
+}
+.propos{
+	display: inline;
+	position: absolute;
+	top: 3000px;
+	left: 300px;
+}
+.faq{
+	display: inline;
+	position: absolute;
+	top: 3000px;
+	left: 600px;
+
+}
+
+.supp{
+	display: inline;
+	position: absolute;
+	top: 3000px;
+	left: 700px;
+
+}

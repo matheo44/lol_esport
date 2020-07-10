@@ -1,0 +1,50 @@
+body{
+	background-image:url(backgroundLlol.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	
+}
+h2{
+	color:rgb(196, 180, 120);
+}
+.img_noir{
+	 height: 85px;
+	 width: 1800px;
+	 padding: 0px;
+}
+.LEC{
+	padding:100px;
+	height: 150px;
+}
+.LPL{
+	padding: 100px;
+	height: 150px;
+}
+.LJL{
+	padding: 100px;
+	height: 150px;
+}
+.NA{
+	padding: 100px;
+	height: 150px;
+}
+.LCK{
+	padding: 100px;
+	height: 150px;
+}
+.OPL{
+	padding: 100px;
+	height: 150ps;
+}
+.LLA{
+	padding: 100px;
+	height: 150px;
+}
+.RUSSIE{
+	padding: 100px;
+	height: 150px;
+}
+p{
+	color: yellow;
+	text-align: center;
+}
